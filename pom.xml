@@ -17,12 +17,12 @@
 		@since 2014-03 -->
 
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>org.jboss.narayana.kvstore</groupId>
-	<artifactId>kvstorecore</artifactId>
+	<groupId>KVStoreInfinispanTesting</groupId>
+	<artifactId>PutFailTests</artifactId>
 	<packaging>jar</packaging>
 	<version>0.1-test</version>
 
-	<description>Prototype code for Key/Value ObjectStore</description>
+	<description>Tests On How Infinispan Behaves in given situations</description>
 
 	<url>http://www.jboss.org/jbosstm/</url>
 
