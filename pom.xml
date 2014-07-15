@@ -18,9 +18,9 @@
 
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>KVStoreInfinispanTesting</groupId>
-	<artifactId>PutFailTests</artifactId>
+	<artifactId>put-not-failing-test</artifactId>
 	<packaging>jar</packaging>
-	<version>0.1-test</version>
+	<version>0.2-test</version>
 
 	<description>Tests On How Infinispan Behaves in given situations</description>
 
